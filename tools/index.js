@@ -7,7 +7,7 @@ const version = require('./util/version_compare')
 const iPhoneBackup = require('./util/iphone_backup.js').iPhoneBackup
 const log = require('./util/log')
 
-var base = path.join(process.env.HOME, '/Library/Application Support/MobileSync/Backup/')
+var base = path.join(process.env.USERPROFILE, 'AppData/Roaming/Apple Computer/MobileSync/Backup')
 
 var reportTypes = {
   'apps': require('./reports/apps'),

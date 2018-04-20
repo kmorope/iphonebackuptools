@@ -1,0 +1,19 @@
+[
+  {
+    "conversation_id": 7,
+    "date": "545843396664857600",
+    "service": "SMS",
+    "chat_name": "35585",
+    "display_name": "",
+    "message_id": "12",
+    "content": "SMARTBOOKS tiene los mejores libros para ti! Lee ilimitadamente ingresando a: www.24symbols.com/tg_co/sign_up , con tu password !",
+    "date_read": "545845720",
+    "date_delivered": "0",
+    "is_delivered": "1",
+    "is_finished": "1",
+    "is_from_me": "0",
+    "is_read": "1",
+    "is_sent": "0",
+    "attachments": []
+  }
+]
